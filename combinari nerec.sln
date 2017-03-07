@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combinari nerec", "combinari nerec\combinari nerec.vcxproj", "{A87D9400-54D2-4422-9C4F-E3F01AC23D7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87D9400-54D2-4422-9C4F-E3F01AC23D7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A87D9400-54D2-4422-9C4F-E3F01AC23D7C}.Debug|Win32.Build.0 = Debug|Win32
+		{A87D9400-54D2-4422-9C4F-E3F01AC23D7C}.Release|Win32.ActiveCfg = Release|Win32
+		{A87D9400-54D2-4422-9C4F-E3F01AC23D7C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
